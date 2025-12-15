@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quenching with Strain - Simulation</title>
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+        <nav class="nav-menu">
+            <div class="nav-section">
+                <h3 class="nav-title">Quenching</h3>
+                <ul class="nav-list">
+                    <li><a href="quenching-setup.html" class="nav-link">Quenching Setup</a></li>
+                    <li><a href="quenching-strain.html" class="nav-link active">Quenching with Strain</a></li>
+                </ul>
+            </div>
+            
+            <button class="back-button" onclick="window.location.href='index.html'">← Back to Selection</button>
+        </nav>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+        <!-- Header with Logo -->
+        <div class="content-header">
+            <img src="images/deiLogo.jpg" alt="DEI Logo" class="content-logo" />
+            <div class="header-text">
+                <h1 class="header-title">Virtual Lab Simulation Environment</h1>
+                <p class="header-subtitle">Heat Treatment Processes</p>
+            </div>
+        </div>
+        
+        <h1 class="section-title">Quenching with Strain</h1>
+        <div class="content-box">
+            <p>On the left hand side, quenching process can be visualized and one could see the length of meshed rod being changed when cooled from higher temperature to lower temperature. The top right hand corner shows, the temperature change over the surface of rod. The bottom right hand corner shows, equivalent strains generated over the cross section of rod, in middle, during the quenching process.</p>
+            
+            <div class="video-container">
+                <video controls>
+                    <source src="Quenching/StrainQuenching.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        </div>
+    </main>
+
+    <script src="./js/main.js"></script>
+</body>
+</html>
