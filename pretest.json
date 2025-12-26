@@ -1,0 +1,85 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What does C refers to in AC3 Temperature:",
+      "answers": {
+        "a": "Chauffage",
+        "b": "Chauffer",
+        "c": "Critical",
+        "d": "Condensing"
+      },
+      "explanations": {
+        "a": "Chauffage refers to heating, not the critical temperature designation.",
+        "b": "Chauffer means to heat in French, but is not used here.",
+        "c": "C in AC3 denotes the critical temperature at which austenite formation is complete.",
+        "d": "Condensing has no relevance in heat treatment."
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Water cooling rate is _______ to critical cooling rate:",
+      "answers": {
+        "a": "Higher",
+        "b": "Lower",
+        "c": "Equal",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Water provides a cooling rate higher than the critical cooling rate required for martensite formation.",
+        "b": "Lower cooling rate would not form martensite.",
+        "c": "Equal cooling rate is not practically observed.",
+        "d": "Incorrect because water cooling is higher."
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "TTT diagram refers to:",
+      "answers": {
+        "a": "Trinidad Tobago Temperature",
+        "b": "Time Temperature Transformation",
+        "c": "Temperature Time Transformation",
+        "d": "Transformation Temperature Time"
+      },
+      "explanations": {
+        "a": "This is unrelated to metallurgy.",
+        "b": "Incorrect sequence of terms.",
+        "c": "TTT diagram represents Temperature–Time–Transformation behavior.",
+        "d": "Incorrect naming convention."
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Fast cooling results in formation of:",
+      "answers": {
+        "a": "Pearlite",
+        "b": "Austenite",
+        "c": "Martensite",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Pearlite forms during slow cooling.",
+        "b": "Austenite exists only at high temperature.",
+        "c": "Martensite forms due to rapid quenching.",
+        "d": "Incorrect because martensite is formed."
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Slow cooling is carried out by:",
+      "answers": {
+        "a": "Air",
+        "b": "Oil",
+        "c": "Water",
+        "d": "Impossible"
+      },
+      "explanations": {
+        "a": "Air provides the slowest cooling rate.",
+        "b": "Oil cools faster than air.",
+        "c": "Water provides rapid cooling.",
+        "d": "Slow cooling is possible using air."
+      },
+      "correctAnswer": "a"
+    }
+  ]
+}
