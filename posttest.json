@@ -1,0 +1,85 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "After Forging process ______ is done:",
+      "answers": {
+        "a": "Quenching",
+        "b": "Annealing",
+        "c": "Casting",
+        "d": "Nitriding"
+      },
+      "explanations": {
+        "a": "Direct quenching may cause defects.",
+        "b": "Annealing is done to homogenize microstructure after forging.",
+        "c": "Casting is a manufacturing process, not post-forging.",
+        "d": "Nitriding is a surface treatment."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Maximum equivalent strains occur ______:",
+      "answers": {
+        "a": "At Surface",
+        "b": "In Core",
+        "c": "Same Everywhere",
+        "d": "Does not occur"
+      },
+      "explanations": {
+        "a": "Surface experiences maximum deformation and cooling rate.",
+        "b": "Core deforms less due to constraint.",
+        "c": "Strain distribution is non-uniform.",
+        "d": "Strain always occurs during quenching."
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Quenching improves:",
+      "answers": {
+        "a": "Strength",
+        "b": "Machinability",
+        "c": "Hardness",
+        "d": "Toughness"
+      },
+      "explanations": {
+        "a": "Strength increases but hardness is the primary effect.",
+        "b": "Machinability usually decreases.",
+        "c": "Martensite formation significantly increases hardness.",
+        "d": "Toughness generally decreases."
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "What does CCC refers to:",
+      "answers": {
+        "a": "Cubic Centimetre Cube",
+        "b": "Cooling Continuous Curve",
+        "c": "Curve of continuous cooling",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "This is a volume unit, unrelated to metallurgy.",
+        "b": "Incorrect expansion.",
+        "c": "CCC represents the Curve of Continuous Cooling.",
+        "d": "Incorrect."
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "The maximum temperature in the video is indicated by:",
+      "answers": {
+        "a": "Red",
+        "b": "Green",
+        "c": "Blue",
+        "d": "Yellow"
+      },
+      "explanations": {
+        "a": "Red color conventionally indicates maximum temperature.",
+        "b": "Green indicates moderate temperature.",
+        "c": "Blue indicates low temperature.",
+        "d": "Yellow is lower than red in thermal scale."
+      },
+      "correctAnswer": "a"
+    }
+  ]
+}
